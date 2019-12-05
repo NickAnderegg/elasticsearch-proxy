@@ -23,9 +23,9 @@ import (
 	"github.com/infinitbyte/framework/core/orm"
 	"github.com/infinitbyte/framework/core/util"
 	"github.com/infinitbyte/framework/modules"
-	"github.com/medcl/elasticsearch-proxy/config"
-	"github.com/medcl/elasticsearch-proxy/model"
-	"github.com/medcl/elasticsearch-proxy/plugin"
+	"github.com/nickanderegg/elasticsearch-proxy/config"
+	"github.com/nickanderegg/elasticsearch-proxy/model"
+	"github.com/nickanderegg/elasticsearch-proxy/plugin"
 )
 
 func main() {

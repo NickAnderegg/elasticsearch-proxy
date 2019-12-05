@@ -3,10 +3,10 @@ package plugin
 import (
 	. "github.com/infinitbyte/framework/core/config"
 	"github.com/infinitbyte/framework/core/pipeline"
-	"github.com/medcl/elasticsearch-proxy/api"
-	"github.com/medcl/elasticsearch-proxy/config"
-	"github.com/medcl/elasticsearch-proxy/pipelines"
-	"github.com/medcl/elasticsearch-proxy/ui"
+	"github.com/nickanderegg/elasticsearch-proxy/api"
+	"github.com/nickanderegg/elasticsearch-proxy/config"
+	"github.com/nickanderegg/elasticsearch-proxy/pipelines"
+	"github.com/nickanderegg/elasticsearch-proxy/ui"
 )
 
 type ProxyPlugin struct {

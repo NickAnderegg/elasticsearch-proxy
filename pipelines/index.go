@@ -10,8 +10,8 @@ import (
 	"github.com/infinitbyte/framework/core/pipeline"
 	"github.com/infinitbyte/framework/core/queue"
 	"github.com/infinitbyte/framework/core/util"
-	"github.com/medcl/elasticsearch-proxy/config"
-	"github.com/medcl/elasticsearch-proxy/model"
+	"github.com/nickanderegg/elasticsearch-proxy/config"
+	"github.com/nickanderegg/elasticsearch-proxy/model"
 )
 
 type IndexJoint struct {
