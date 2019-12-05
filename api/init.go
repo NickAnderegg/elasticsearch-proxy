@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"github.com/infinitbyte/framework/core/api"
 	"github.com/infinitbyte/framework/core/env"
-	"src/github.com/go-redis/redis"
+	"github.com/go-redis/redis"
 	"time"
 )
 
